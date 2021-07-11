@@ -53,7 +53,7 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background: url('/Users/beatrice/Documents/Trixie-MoringaP1/hello-world/Home image/michael-ungacta-WEHl3v-gQgs-unsplash.jpg')no-repeat center center/cover;
+    background: url('file:///Users/beatrice/Documents/Trixie-MoringaP1/hello-world/Home-image/michael-ungacta-WEHl3v-gQgs-unsplash.jpg;
     height: 900px;
     width: 100%;
     z-index: -1;
