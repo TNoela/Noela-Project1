@@ -14,4 +14,4 @@ MIT License
 
 Copyright (c) [2021] [TRIXIE MURUGI]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge and publish
+Permission is hereby granted, free of charge, to any person obtaining a copy of this, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge and publish.
